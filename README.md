@@ -1,4 +1,4 @@
-
+git --version
 # Setting up a Professional Data Science Environment - Installation
 
 ## Introduction
